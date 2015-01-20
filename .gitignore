@@ -1,3 +1,4 @@
 *.pyc
 SRC/SWIG2D/*
 builddir--debug/*
+oof2
