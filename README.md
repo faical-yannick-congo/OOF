@@ -1,9 +1,3 @@
-// -*- text -*-
-// $RCSfile: README,v $
-// $Revision: 1.37 $
-// $Author: langer $
-// $Date: 2015/01/13 16:12:40 $
-
 Congratulations!  You are reading the README file for a software
 package you downloaded!  You are now officially an *advanced* software
 installer.
