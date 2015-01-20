@@ -1,0 +1,6 @@
+BUILD
+Makefile
+Makefile.template
+config.log
+config.status
+swig.x
