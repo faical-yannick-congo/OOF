@@ -1,7 +1,0 @@
-smallmatrix.o
-smallmatrixc.so 
-smallmatrixcmodule.o
-smallmatrixcmodule.C
-smallmatrix.py
-*.pyc
-*.dat
